@@ -1,6 +1,8 @@
 # 🧮 Tabuada Interativa
 
-![Capa do Projeto](https://i.postimg.cc/LX5gbxj7/Captura-de-tela-2025-07-12-135917.png)
+<p align="center">
+  <img src="https://i.postimg.cc/LX5gbxj7/Captura-de-tela-2025-07-12-135917.png" alt="Capa do Projeto" width="600"/>
+</p>
 
 ## 📌 Descrição
 
@@ -8,11 +10,11 @@ Este projeto é uma aplicação web simples e interativa que gera a **tabuada de
 
 ## 🚀 Funcionalidades
 
-- ✅ Campo para digitar um número
-- ✅ Geração da tabuada de 1 a 10
-- ✅ Lista de resultados formatados
-- ✅ Botão para limpar a tabuada
-- ✅ Validação de entrada com mensagens de erro amigáveis
+- ✅ Campo para digitar um número  
+- ✅ Geração da tabuada de 1 a 10  
+- ✅ Lista de resultados formatados  
+- ✅ Botão para limpar a tabuada  
+- ✅ Validação de entrada com mensagens de erro amigáveis  
 - ✅ Layout moderno e responsivo
 
 ## 🛠️ Tecnologias Utilizadas
