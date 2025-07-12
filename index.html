@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tabuada Interativa - Natália Pastre</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card">
+    <h1>Tabuada Interativa</h1>
+    <form id="form-tabuada" onsubmit="return false;">
+      <label for="txtn">Digite um número:</label>
+      <input type="number" id="txtn" name="num" placeholder="Ex: 5" min="0" />
+      <div class="buttons">
+        <button type="button" onclick="gerarTabuada()">Gerar Tabuada</button>
+        <button type="button" onclick="limparTabuada()" class="btn-clear">Limpar</button>
+      </div>
+    </form>
+
+    <section id="resultado">
+      <ul id="tabuada-list"></ul>
+      <p id="msg-erro" class="error-msg"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Natália Pastre</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
